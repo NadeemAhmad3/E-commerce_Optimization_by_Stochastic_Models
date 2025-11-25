@@ -349,7 +349,7 @@ For questions, suggestions, or collaborations:
 - Connect on GitHub: [@NadeemAhmad3](https://github.com/NadeemAhmad3)
 
 ### Direct Contacts by Specialty
-- **Stochastic Modeling & Queueing:** [Nadeem Ahmad](mailto:nadeemahmad2703@gmail
+- **Stochastic Modeling & Queueing:** [Nadeem Ahmad](mailto:nadeemahmad2703@gmail)
 - **Probability & Distributions:** [Bisam Ahmad](https://github.com/Bisam-27)
 - **Time Series Analysis:** [Iman Fatima](https://github.com/ImanFatima3715)
 - **Combinatorics & Theory:** [Hamdan Ahmad](https://github.com/HamdanxSE)
