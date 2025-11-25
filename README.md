@@ -348,7 +348,14 @@ For questions, suggestions, or collaborations:
 - Open an issue in this repository
 - Connect on GitHub: [@NadeemAhmad3](https://github.com/NadeemAhmad3)
 
+### Direct Contacts by Specialty
+- **Stochastic Modeling & Queueing:** [Nadeem Ahmad](mailto:nadeemahmad2703@gmail
+- **Probability & Distributions:** [Bisam Ahmad](https://github.com/Bisam-27)
+- **Time Series Analysis:** [Iman Fatima](https://github.com/ImanFatima3715)
+- **Combinatorics & Theory:** [Hamdan Ahmad](https://github.com/HamdanxSE)
+- **Data Integration & Visualization:** [Ayesha Naseer](https://github.com/Ayesha-Naseer13)
 ---
+
 
 <div align="center">
 
